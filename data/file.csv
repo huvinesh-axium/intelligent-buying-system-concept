@@ -1,0 +1,10 @@
+sku_id,product_name,category,brand,cost_price,selling_price,preferred_supplier_id
+SKU-101,Men's V-Neck T-Shirt,Apparel,Elush Basics,8.50,19.99,SUP-01
+SKU-102,Men's Crew-Neck T-Shirt,Apparel,Elush Basics,8.75,19.99,SUP-01
+SKU-103,Women's Relaxed Fit Jeans,Apparel,Denim Co,25.00,59.99,SUP-02
+SKU-104,Women's Skinny Fit Jeans,Apparel,Denim Co,26.50,64.99,SUP-02
+SKU-201,Wireless Charging Pad,Electronics,TechUp,15.00,34.99,SUP-03
+SKU-202,USB-C Power Adapter,Electronics,TechUp,12.50,29.99,SUP-03
+SKU-203,Fast-Charge Power Bank,Electronics,PowerCore,22.00,49.99,SUP-04
+SKU-301,Leather Crossbody Bag,Accessories,Artisan Gear,45.00,99.99,SUP-05
+SKU-302,Canvas Tote Bag,Accessories,Elush Basics,18.00,39.99,SUP-01

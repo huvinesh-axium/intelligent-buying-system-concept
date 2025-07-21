@@ -1,0 +1,8 @@
+supplier_id,supplier_name,country,standard_lead_time_days
+SUP-01,Global Textiles,Vietnam,25
+SUP-02,Denim Co Manufacturing,Mexico,20
+SUP-03,Shenzhen Electronics,China,30
+SUP-04,PowerCore Solutions,Taiwan,28
+SUP-05,Artisan Gear Crafters,India,35
+SUP-06,Rapid Apparel Source,Turkey,15
+SUP-07,NextGen Components,South Korea,22
