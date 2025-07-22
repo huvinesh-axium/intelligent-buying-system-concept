@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-07-23T01:38:06.200505",
+  "critical_items_count": 5,
+  "critical_items": [
+    "SKU-102",
+    "SKU-103",
+    "SKU-201",
+    "SKU-203",
+    "SKU-301"
+  ],
+  "supplier_reliability": "Denim Co Manufacturing: 95, Rapid Apparel Source: 85, NextGen Components: 90, Global Textiles: 40, Shenzhen Electronics: 40, PowerCore Solutions: 40, Artisan Gear Crafters: 40",
+  "recommendations": "1. Order SKU-102 and SKU-201 from Denim Co Manufacturing.\n2. Order SKU-103 and SKU-203 from Rapid Apparel Source.\n3. Order SKU-301 from NextGen Components.",
+  "justification": "The recommended order prioritizes critical SKUs with the highest stockout risk and zero stock levels. Denim Co Manufacturing, Rapid Apparel Source, and NextGen Components are chosen due to their high reliability scores and on-time delivery rates, ensuring that the replenishment is both timely and dependable. This approach aligns with the budget constraints by focusing on the most urgent needs first, leveraging suppliers with proven track records to minimize the risk of further stockouts. The selection of these suppliers also considers their ability to meet urgent demands, as indicated by their shorter lead times compared to others.",
+  "budget": 75000
+}

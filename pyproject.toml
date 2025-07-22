@@ -9,4 +9,6 @@ dependencies = [
     "openai>=1.97.0",
     "pandas>=2.0.0",
     "numpy>=1.24.0",
+    "dspy-ai>=2.6.27",
+    "ipykernel>=6.30.0",
 ]
